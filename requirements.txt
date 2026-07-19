@@ -1,0 +1,12 @@
+torch>=2.1
+transformers>=4.42
+datasets>=2.18
+accelerate>=0.30
+peft>=0.11
+scikit-learn>=1.3
+pandas
+matplotlib
+librosa
+soundfile
+safetensors
+gradio
