@@ -1,0 +1,15 @@
+# Data
+ravdess_data/
+
+# Training artifacts and checkpoints
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Misc
+.DS_Store
+.gradio/
